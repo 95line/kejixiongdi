@@ -67,6 +67,7 @@
     <img src="images/7.jpg">
     <img src="images/8.jpg">
     <img src="images/9.jpg">
+    <img src="images/10.jpg">
 </div>
 </body>
 </html>
