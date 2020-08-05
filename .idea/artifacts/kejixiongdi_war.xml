@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="kejixiongdi:war">
-    <output-path>$PROJECT_DIR$/out/artifacts/kejixiongdi_war</output-path>
-    <root id="archive" name="kejixiongdi_war.war">
-      <element id="artifact" artifact-name="kejixiongdi:war exploded" />
-      <element id="dir-copy" path="$PROJECT_DIR$" />
-    </root>
-  </artifact>
-</component>
